@@ -1,0 +1,52 @@
+﻿body {
+    text-align: center;
+    background-color: lightcyan;
+}
+
+nav {
+    font-size: larger;
+}
+
+header, footer {
+    color: darkblue;
+}
+
+h2 {
+    color: blue;
+}
+
+#randomUser {
+    background-color: lightblue;
+    color: rebeccapurple;
+    font-size: large;
+    border-radius: 25px;
+}
+
+#userPicture {
+    border-radius: 50%;
+}
+
+table {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: .7em;
+    border-style: outset;
+}
+
+th {
+    background-color: #1f4348;
+    color: #fff;
+    padding: .5em;
+    border-bottom: 2px solid #102224;
+    text-align: center;
+}
+
+td {
+    background-color: #edecec;
+    padding: .5em;
+    border-top: 1px solid #fff;
+}
+
+
+
