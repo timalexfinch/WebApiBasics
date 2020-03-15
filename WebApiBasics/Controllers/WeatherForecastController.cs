@@ -27,7 +27,7 @@ namespace WebApiBasics.Controllers
         }
 
         /// <summary>
-        /// The default Get.
+        /// This is the weird demo service provided by Microsoft
         /// </summary>
         /// <returns>Returns an almost meaningless load of text</returns>
         [HttpGet]

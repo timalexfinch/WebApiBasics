@@ -19,7 +19,7 @@ namespace WebApiBasics.Controllers
         //    return DateTime.Now.ToString();
         //}
         /// <summary>
-        /// The default Get function.
+        /// This service justs demonstrates how to write a WebAPI
         /// </summary>
         /// <returns>Just returns a simple list of words</returns>
         [HttpGet]
